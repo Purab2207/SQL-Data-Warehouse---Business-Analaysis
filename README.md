@@ -175,15 +175,9 @@ ORDER BY total_customers DESC;
 - **Machine Learning**: Predictive analytics implementation
 - **API Development**: RESTful services for data access
 
-## 🤝 Contributing
-Feel free to fork this project and submit pull requests for improvements or additional analysis techniques.
-
-## 📄 License
-This project is available under the MIT License.
-
 ## 📧 Contact
-[Your Name] - [Your Email]
-Project Link: [Your GitHub Repository URL]
+[Purab Gupta] - [purabgupta988@gmail.com]
+Project Link: [https://github.com/Purab2207/SQL-Data-Warehouse---Business-Analaysis/tree/main]
 
 ---
 *This project demonstrates practical application of SQL for business intelligence and data analytics in a real-world scenario.*
